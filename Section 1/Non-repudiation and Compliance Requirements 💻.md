@@ -15,3 +15,4 @@ So, Non-repudiation is much like the property of authentication in that their im
 **Compliance Requirements** are like rules that organizations have to follow to keep their data safe. For example, if a company wants to do business in a certain country, they have to follow the laws in that country. If they don't follow these rules, they might get in trouble. 😣
 
 
+[Kips and Jason talk about non-repudiation](https://yourcyberpath.com/podcast/87/)
