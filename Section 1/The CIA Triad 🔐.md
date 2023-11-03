@@ -1,5 +1,3 @@
-<img align="center" src="./_resources/043c5035c77a1a4a03bdc202530a6593" alt="What Is the CIA Triad and Why Is It Important?" width="478" height="401" class="jop-noMdConv">
-
 Hey there! 😃 Let's dive into the world of cybersecurity and explore the CIA Triad! Are you ready to get your brain pumping? 🥳
 
 The CIA Triad is **a model designed to guide policies for information security within an organization**. stands for \*\*Confidentiality, Integrity, and Availability\*\*. This is like a security checklist for keeping your data safe and secure!
