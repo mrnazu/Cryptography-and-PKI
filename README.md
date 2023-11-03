@@ -25,7 +25,7 @@ Section 3: Implementing Cryptographic Protocols and Algorithms 🔐💻
 - SMIME and SSH 🔐
 - Internet Protocol Security (IPSec) 🔐
 
-🌟 If you have any questions or need help with anything, please feel free to reach out to me by opening an issue or contacting me directly. I'll be happy to assist you in any way I can. 🌟
+🌟 If you have any questions or need help with anything, please feel free to reach out to me by opening an issue or contacting me directly on [Twitter](https://twitter.com/mrnazu_/). I'll be happy to assist you in any way I can. 🌟
 
 🎉 Best regards,
 
