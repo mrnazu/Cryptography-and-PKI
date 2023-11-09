@@ -2,6 +2,9 @@
 
 Cryptography is the science of securing information by transforming it into an unreadable format, and then back into a readable format using a secret key or password. Public Key Infrastructure (PKI) is a framework that leverages cryptography to provide secure communication and authentication in various applications. In this guide, we will delve into the fundamentals of cryptography and PKI.
 
+![image](https://github.com/mrnazu/Cryptography-and-PKI/assets/108541991/d8f80c46-41e9-483c-a56d-bd6a2cee5f0e)
+
+
 ## Cryptography
 
 Cryptography involves various techniques and algorithms to protect data and communications. Here are some key concepts and components:
